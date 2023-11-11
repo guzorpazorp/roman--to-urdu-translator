@@ -1,5 +1,6 @@
 ### roman-to-urdu-translator
 [underprogress]
 
-functionality\n
+functionality
+
 -> standardizes input roman urdu into a standard template
